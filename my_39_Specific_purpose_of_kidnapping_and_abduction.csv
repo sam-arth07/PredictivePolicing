@@ -1,0 +1,37 @@
+Area_Name,Year,Group_Name,Sub_Group_Name,K_A_Cases_Reported,K_A_Female_10_15_Years,K_A_Female_15_18_Years,K_A_Female_18_30_Years,K_A_Female_30_50_Years,K_A_Female_Above_50_Years,K_A_Female_Total,K_A_Female_Upto_10_Years,K_A_Grand_Total,K_A_Male_10_15_Years,K_A_Male_15_18_Years,K_A_Male_18_30_Years,K_A_Male_30_50_Years,K_A_Male_Above_50_Years,K_A_Male_Total,K_A_Male_Upto_10_Years
+Gujarat,2001,Kidnap - For Adoption,01. For Adoption,3,0,0,2,0,0,3,1,3,0,0,0,0,0,0,0
+Gujarat,2002,Kidnap - For Adoption,01. For Adoption,2,0,1,0,0,0,1,0,2,0,0,1,0,0,1,0
+Gujarat,2003,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2004,Kidnap - For Adoption,01. For Adoption,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Gujarat,2005,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2006,Kidnap - For Adoption,01. For Adoption,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+Gujarat,2007,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2008,Kidnap - For Adoption,01. For Adoption,2,0,0,0,0,0,0,0,2,0,0,1,1,0,2,0
+Gujarat,2009,Kidnap - For Adoption,01. For Adoption,2,0,0,0,0,0,0,0,2,0,0,1,0,0,2,1
+Gujarat,2010,Kidnap - For Adoption,01. For Adoption,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2001,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2002,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2003,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2004,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2005,Kidnap - For Begging,02. For Begging,2,0,0,0,1,0,3,2,4,1,0,0,0,0,1,0
+Gujarat,2006,Kidnap - For Begging,02. For Begging,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+Gujarat,2007,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2008,Kidnap - For Begging,02. For Begging,5,0,0,0,0,0,2,2,5,2,0,1,0,0,3,0
+Gujarat,2009,Kidnap - For Begging,02. For Begging,1,0,0,0,0,0,0,0,2,2,0,0,0,0,2,0
+Gujarat,2010,Kidnap - For Begging,02. For Begging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2001,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2002,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2003,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2004,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2005,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2006,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2007,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2008,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2009,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2010,Kidnap - For Camel Racing,03. for Camel Racing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,2001,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,141,19,62,42,3,0,128,2,141,3,5,5,0,0,13,0
+Gujarat,2002,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,126,13,10,68,22,0,114,1,126,1,0,5,6,0,12,0
+Gujarat,2003,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,177,24,26,101,9,0,160,0,177,0,1,16,0,0,17,0
+Gujarat,2004,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,136,11,19,80,10,0,121,1,136,1,1,11,0,0,15,2
+Gujarat,2005,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,154,15,29,98,2,0,149,5,154,1,0,3,1,0,5,0
+Gujarat,2006,Kidnap - For Illicit Intercourse,04. For Illicit Intercourse,184,21,78,69,10,0,183,5,188,0,0,5,0,0,5,0

@@ -1,0 +1,25 @@
+Area_Name,Year,Group_Name,Sub_Group_Name,Cases_Acquitted_or_Discharged,Cases_charge_sheets_were_not_laid_but_Final_Report_submitted,Cases_Chargesheeted,Cases_Compounded_or_Withdrawn,Cases_Convicted,Cases_Declared_False_on_Account_of_Mistake_of_Fact_or_of_Law,Cases_Investigated_Chargesheets+FR_Submitted,Cases_not_Investigated_or_in_which_investigation_was_refused,Cases_Pending_Investigation_at_Year_End,Cases_Pending_Investigation_from_previous_year,Cases_Pending_Trial_at_Year_End,Cases_Pending_Trial_from_the_previous_year,Cases_Reported,Cases_Sent_for_Trial,Cases_Trials_Completed,Cases_Withdrawn_by_the_Govt,Cases_withdrawn_by_the_Govt_during_investigation,Total_Cases_for_Trial
+Gujarat,2001,Rape,01. Rape,150,10,288,7,26,10,298,1,24,47,1948,1843,286,288,176,0,0,2131
+Gujarat,2002,Rape,01. Rape,184,14,244,13,39,4,258,0,29,24,1956,1948,267,244,223,0,0,2192
+Gujarat,2003,Rape,01. Rape,205,15,216,4,24,9,231,0,25,29,1939,1956,236,216,229,0,0,2172
+Gujarat,2004,Rape,01. Rape,232,17,307,3,40,14,324,0,26,25,1971,1939,339,307,272,0,0,2246
+Gujarat,2005,Rape,01. Rape,186,19,286,3,37,4,305,1,40,26,2031,1971,324,286,223,0,0,2257
+Gujarat,2006,Rape,01. Rape,157,10,332,4,50,6,342,2,44,40,2152,2031,354,332,207,0,0,2363
+Gujarat,2007,Rape,01. Rape,150,17,289,3,50,4,306,2,48,44,2238,2152,316,289,200,0,0,2441
+Gujarat,2008,Rape,01. Rape,165,28,328,5,48,10,356,2,54,48,2348,2238,374,328,213,0,0,2566
+Gujarat,2009,Rape,01. Rape,150,21,377,2,33,5,398,2,82,54,2540,2348,433,377,183,0,0,2725
+Gujarat,2010,Rape,01. Rape,154,25,391,2,33,3,416,1,70,82,2742,2540,408,391,187,0,0,2931
+Gujarat,2001,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,251,145,628,18,25,117,773,4,123,160,4410,4076,857,628,276,0,0,4704
+Gujarat,2002,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,246,133,554,10,38,116,687,1,126,123,4670,4410,807,554,284,0,0,4964
+Gujarat,2003,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,388,181,535,9,31,156,716,1,112,126,4777,4670,859,535,419,0,0,5205
+Gujarat,2004,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,413,146,611,14,46,121,757,2,137,112,4915,4777,905,611,459,0,0,5388
+Gujarat,2005,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,316,177,604,18,51,87,781,0,185,137,5134,4915,916,604,367,0,0,5519
+Gujarat,2006,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,385,143,654,22,76,100,797,6,227,185,5305,5134,945,654,461,0,0,5788
+Gujarat,2007,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,277,182,789,6,55,95,971,6,244,227,5756,5305,1089,789,332,0,0,6094
+Gujarat,2008,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,322,202,764,9,44,96,966,5,295,244,6145,5756,1119,764,366,0,1,6520
+Gujarat,2009,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,294,211,808,8,42,64,1019,9,365,295,6609,6145,1162,808,336,0,0,6953
+Gujarat,2010,Kidnapping & Abduction - Women & Girls,02. Kidnapping & Abduction of Women & Girls,350,229,1027,17,51,50,1256,10,338,365,7218,6609,1290,1027,401,0,1,7636
+Gujarat,2001,Dowry Deaths,03. Dowry Deaths,21,0,67,4,1,1,67,0,6,7,481,440,67,67,22,0,0,507
+Gujarat,2002,Dowry Deaths,03. Dowry Deaths,39,5,59,3,3,0,64,0,4,6,495,481,62,59,42,0,0,540
+Gujarat,2003,Dowry Deaths,03. Dowry Deaths,44,2,49,2,4,1,51,0,6,4,494,495,54,49,48,0,0,544
+Gujarat,2004,Dowry Deaths,03. Dowry Deaths,49,1,57,1,5,1,58,0,5,6,496,494,58,57,54,0,0,551
