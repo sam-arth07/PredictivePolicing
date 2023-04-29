@@ -1,0 +1,13 @@
+.footer_credits{
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+.credits {
+    text-align: center;
+    margin-top: 100vh;
+    padding: 10px;
+    margin-bottom: 0;
+}
+.credits footer{
+    margin-top:100vh ;
+}
